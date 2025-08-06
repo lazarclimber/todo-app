@@ -174,6 +174,7 @@ export default function TodoApp() {
 					)}
 				</div>
 			</div>
+			
 		</>
 	)
 }
